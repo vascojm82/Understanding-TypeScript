@@ -1,0 +1,16 @@
+{
+  "name": "decorators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "decorators.js",
+  "dependencies": {
+    "typescript": "2.3.4",
+    "lite-server": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
